@@ -604,6 +604,11 @@ header .fa-bars {
 
     }
 
+     .about .row .content a{
+        background-color: #e84393;
+        color: white;
+    }
+
 
 }
 
@@ -612,6 +617,11 @@ header .fa-bars {
     html {
         font-size: 50%;
         
+    }
+
+     .about .row .content a{
+        background-color: #e84393;
+        color: white;
     }
 
     .home {
