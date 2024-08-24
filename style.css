@@ -613,6 +613,10 @@ header .fa-bars {
         background-color: #e84393;
         color:white;
     }
+    .btn:hover{
+        background-color: #fff700;
+        color: #000000;
+    }
 
 }
 
@@ -648,6 +652,10 @@ header .fa-bars {
     color: #333;
     
 }
+    .btn:hover{
+        background-color: #fff700;
+        color: #000000;
+    }
 
     
 
