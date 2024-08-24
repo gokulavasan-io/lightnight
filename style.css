@@ -611,8 +611,19 @@ header .fa-bars {
 
     html {
         font-size: 50%;
-        width:100vw;
+        
     }
+
+    .home {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background: url("./assets/pexels-minan1398-813332.jpg") no-repeat;
+    background-size: cover;
+    background-position: right;
+
+}
+
 
     header .icons a {
     font-size: 2.5rem;
