@@ -609,6 +609,10 @@ header .fa-bars {
         color: white;
     }
 
+    .contact .row .btn{
+        background-color: #e84393;
+        color:white;
+    }
 
 }
 
@@ -633,6 +637,10 @@ header .fa-bars {
     background-position: 75%;
 
 }
+    .contact .row .btn{
+        background-color: #e84393;
+        color:white;
+    }
 
 
     header .icons a {
