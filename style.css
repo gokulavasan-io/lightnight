@@ -612,6 +612,12 @@ header .fa-bars {
     html {
         font-size: 50%;
     }
+    .home {
+        background: url("./assets/pexels-minan1398-813332.jpg") no-repeat;
+        background-size: cover;
+        background-position:right;
+
+    }
 
 
 
