@@ -1,1 +1,1 @@
-Website link : https://lightnight.netlify.app/
+Website link : https://gokulavasan-io.github.io/lightnight/
